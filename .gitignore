@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 oslo_norway.osm
+oslo_norway.osm.bz2
+*.syncthing
+*.db

@@ -1,0 +1,7 @@
+P3. Explore and summarize data
+========================================================
+![](img/logo.png)
+
+## A stream of consciousness analysis and exploration of data
+## A section called "final plots and summary"
+## A final section called "reflection"
